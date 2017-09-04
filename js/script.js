@@ -168,9 +168,9 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["show case ", "projects "],
+            strings: ["莫见惯 ", "尽美 ", "不尽同 ", "设计工作室 "],
             typeSpeed: 100,
-            backDelay: 500,
+            backDelay: 300,
             loop: false,
             contentType: 'html', // or text
             // defaults to false for infinite loop
